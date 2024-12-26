@@ -2,7 +2,7 @@ Name -Miheer Devendra Parab
 
 InterID -CT12ENH
 
-Role -Artificial intelligence
+Role -Artificial intelligence Intern
 
 Span -December 17th, 2024 to February 17th, 2025.
 
