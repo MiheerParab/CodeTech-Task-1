@@ -1,6 +1,6 @@
 Name -Miheer Devendra Parab
 
-InterID -CT12ENH
+InternID -CT12ENH
 
 Role -Artificial intelligence Intern
 
