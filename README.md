@@ -8,8 +8,6 @@ Role -Artificial intelligence Intern
 
 Span -December 17th, 2024 to February 17th, 2025.
 
-Mentor -Sravani Gouni
-
 
 # CodeTech-Task-1
 📊 Amazon Sales Dataset: Exploratory Data Analysis (EDA)
